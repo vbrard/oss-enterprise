@@ -3,7 +3,7 @@ name: New release
 about: Release a project as OSS
 title: Release *****/REPO
 labels: ''
-assignees: vbrard
+assignees: ''
 
 ---
 
